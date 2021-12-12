@@ -5,5 +5,5 @@ La contaminación del aire es un problema que impacta directamente en la calidad
 
 El presente trabajo incluye un análisis realizado de manera individual, el cual se centra en conglomerados de variables, así como un póster realizado en equipo que se centra en componentes principales (ACP). 
 
-Se usaron datos de contaminantes e indicadores meteoreológicos proporcionados por el “Sistema de Monitoreo Ambiental” de la Dirección De Gestión Integral de la Calidad del Aire del Gobierno del Estado de Nuevo León.
+Se usaron datos de contaminantes e indicadores meteoreológicos proporcionados por el “Sistema de Monitoreo Ambiental” de la Dirección De Gestión Integral de la Calidad del Aire del Gobierno del Estado de Nuevo León. La estación analizada fue la estación noreste, ubicada en San Nicolás de los Garza, Nuevo León.
 
